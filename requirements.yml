@@ -15,6 +15,9 @@
 - name: emcee
   version: 2.1.0
 
+- name: corner
+  version: 1.0.1
+
 # astropy-helpers has a recipe template
 - name: astropy-helpers
   version: 1.1.1
@@ -141,7 +144,7 @@
 
 # naima has a recipe template
 - name: naima
-  version: '0.6.1'
+  version: '0.7.1'
   astropy_helpers: true
   numpy_compiled_extensions: false
 
