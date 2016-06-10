@@ -1,3 +1,6 @@
+THIS REPOSITORY HAS BEEN REPLACED WITH: `<https://github.com/astropy/conda-channel-astropy>`_
+===========================================================================================
+
 Purpose
 =======
 
